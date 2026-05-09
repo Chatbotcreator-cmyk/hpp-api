@@ -36,6 +36,10 @@ The API includes two core objects:
 - Automatically generates weekly production data for each week within a specified range of years.
 - Swagger documentation for easy API exploration.
 
+##  Hpp-dashboard
+For the dashboard/frontend files, go to:
+Chatbotcreator-cmyk/hpp-dashboard — this webpage.
+
 ## Installation Instructions
 
 Follow these steps to set up the API locally:
